@@ -9,4 +9,4 @@ elif 70 <= score <= 89:
 elif 90 <= score <= 100:
     print("відмінно")
 else:
-    print("Некоректна бали")
+    print("Некоректни бали")
